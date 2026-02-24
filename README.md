@@ -2,20 +2,22 @@
 Understand the role of VPNs in protecting privacy and secure communication.
 
 software used:Windscribe VPN
+screenshots are in screenshots folder
 
-with vpn connected found my  public ip is 23.95.91.76
+With vpn connected found my  public ip is 23.95.91.76(ip-with-vpn.png)
+without vpn public ip is 103.183.82.159 (ip-without-vpn.png)
 
-i connected US server (vpn-connected.png)
+I connected US server (vpn-connected.png)
 
-without vpn found my internet speed is 98 Mbps (speed-without-vpn.png)
+Without vpn found my internet speed is 98 Mbps (speed-without-vpn.png)
 
-with vpn my speed is 38Mbps(speed-with-vpn.png)
+With vpn my speed is 38Mbps(speed-with-vpn.png)
 
 VPN encrypts traffic using:
 
 AES-256 encryption
 
-Secure tunneling protocol (WireGuard or OpenVPN)
+Secure tunneling protocol 
 
 This prevents:
 
